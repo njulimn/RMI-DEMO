@@ -10,7 +10,7 @@ make run
 
 ## How to compile the file
 ```make
-make run
+make test
 or 
 g++ test.cpp my_first_rmi.cpp -std=c++17 -Wall -lstdc++fs -o test 
 ```
