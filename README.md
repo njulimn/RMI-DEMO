@@ -1,6 +1,7 @@
 # RMI-DEMO
 
 ## Prerequisite
+1. Linux or UNIX System (UBUNTU or OSX Recommended)
 1. g++ version > 8.0 to run the generated files
 
 ## How to run the demo file
